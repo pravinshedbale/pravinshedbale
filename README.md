@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineering, Working in web development domain using MERN stack technologies</h3>
 
 
-<p align="left"> <a href="https://twitter.com/pravinvshedbale" target="blank"><img src="https://img.shields.io/twitter/follow/dadasahebsawa11?logo=twitter&style=for-the-badge" alt="dadasahebsawa11" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pravinvshedbale" target="blank"><img src="https://img.shields.io/twitter/follow/dadasahebsawa11?logo=twitter&style=for-the-badge" alt="pravinvshedbale" /></a> </p>
 
 - 🔭 I’m currently working on **MERN**
 

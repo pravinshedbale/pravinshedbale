@@ -34,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinvshedbale" alt="pravinshedbale" /></p>
 
+![Visitor Count](https://profile-counter.glitch.me/{pravinshedbale}/count.svg)
